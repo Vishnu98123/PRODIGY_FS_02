@@ -38,6 +38,4 @@ The **Employee Management System** is a full-stack web application that enables 
 - `express-validator` for request validation
 - Environment variables with `.env`
 
----
 
-## 📁 Project Structure
